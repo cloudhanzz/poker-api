@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.datasource.max-active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.max-active'"
+  },
+  {
+    "name": "spring.datasource.initial-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initial-size'"
+  },
+  {
+    "name": "spring.datasource.max-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.max-idle'"
+  },
+  {
+    "name": "spring.datasource.min-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.min-idle'"
+  },
+  {
+    "name": "spring.datasource.test-while-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.test-while-idle'"
+  },
+  {
+    "name": "spring.datasource.test-on-borrow",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.test-on-borrow'"
+  },
+  {
+    "name": "spring.datasource.validation-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validation-query'"
+  },
+  {
+    "name": "spring.datasource.hibernate.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hibernate.show_sql'"
+  },
+  {
+    "name": "spring.datasource.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa.show-sql'"
+  },
+  {
+    "name": "auth0.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.issuer'"
+  },
+  {
+    "name": "auth0.apiAudience",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.apiAudience'"
+  }
+]}
